@@ -18,13 +18,4 @@
 
 本项目提供的工具，禁止从事非法活动，此项目，仅供测试，所造成的一切后果，与本人无关。
 
-Author ：tennc
 
-http://tennc.github.io/webshell
-
-license : GPL v3
-
-## Download link
-Check github releases. Latest:
-
-[https://github.com/tennc/webshell/releases](https://github.com/tennc/webshell/releases)
