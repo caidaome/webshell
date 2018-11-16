@@ -2,9 +2,6 @@
 
 hihi
 
-Author：JohnTroony
-
-site: [JohnTroony/php-webshells](https://github.com/JohnTroony/php-webshells)
 
 <pre>
                                   _oo0oo_
